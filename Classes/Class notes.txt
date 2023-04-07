@@ -1,0 +1,7 @@
+#control flow
+Decision Making Statement
+1. if
+2. if else
+3. else if
+4. else if ladder
+5. ternary operator
