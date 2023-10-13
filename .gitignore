@@ -1,2 +1,6 @@
 /.vscode
 *.json
+test.c
+test.cpp
+*.pdf
+*.exe
